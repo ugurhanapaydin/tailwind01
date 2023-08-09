@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-blue{
+    background: radial-gradient(#6b5b95,rgb(10, 81, 109));
+}
